@@ -1,0 +1,263 @@
+[lun ago. 31 11:07:41 PET 2026][INFO] ==================== COMPILE TASK ====================
+[lun ago. 31 11:07:42 PET 2026][INFO] We will now compile your code for x86_64-microsoft-windows. This may take some time.
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs to: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\lib
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs from jar: C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs from jar: C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs from jar: C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs from jar: C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Extracting native libs from jar: C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Looking for resource: /native/windows/launcher.c
+[lun ago. 31 11:07:42 PET 2026][FINE] PB Command for compile-additional-sources: cl -c -DGVM_VERBOSE -DSUBSTRATE /MD /D_UNICODE /DUNICODE /DWIN32 /D_WINDOWS -IC:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI launcher.c
+[lun ago. 31 11:07:42 PET 2026][FINE] Start process compile-additional-sources...
+[lun ago. 31 11:07:42 PET 2026][FINE] [SUB] Microsoft (R) C/C++ Optimizing Compiler Version 19.51.36256 for x64
+[lun ago. 31 11:07:42 PET 2026][FINE] [SUB] (C) Microsoft Corporation. Todos los derechos reservados.
+[lun ago. 31 11:07:42 PET 2026][FINE] [SUB] 
+[lun ago. 31 11:07:42 PET 2026][FINE] [SUB] launcher.c
+[lun ago. 31 11:07:42 PET 2026][FINE] Result for compile-additional-sources: 0
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\META-INF\native-image\filter-file.json to C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\META-INF\native-image\filter-file.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\module-info.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\module-info.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\HelloApplication.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\pe\edu\upeu\algoritmosgui\HelloApplication.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\Launcher.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\pe\edu\upeu\algoritmosgui\Launcher.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\MatrizTriangular.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\pe\edu\upeu\algoritmosgui\MatrizTriangular.class
+[lun ago. 31 11:07:42 PET 2026][FINE] PB Command for jar: C:\Program Files\Java\jdk-21.0.7_windows-x64_bin\jdk-21.0.7\bin\jar.exe cf C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\classes.jar -C C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086 .
+[lun ago. 31 11:07:42 PET 2026][FINE] Start process jar...
+[lun ago. 31 11:07:42 PET 2026][FINE] Result for jar: 0
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning for init build time files
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\classes.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning for reflection files
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar::META-INF/substrate/config/reflectionconfig.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar::META-INF/substrate/config/reflectionconfig.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar::META-INF/substrate/config/reflectionconfig.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/reflectionconfig-x86_64-windows.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/reflectionconfig.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\classes.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning for JNI files
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/jniconfig-x86_64-windows.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/jniconfig.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\classes.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning for resource files
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Scanning C:\Users\ASUSTU~1\AppData\Local\Temp\classes7743275816015364086\classes.jar
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\META-INF\native-image\filter-file.json to C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\META-INF\native-image\filter-file.json
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\module-info.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\module-info.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\HelloApplication.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\pe\edu\upeu\algoritmosgui\HelloApplication.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\Launcher.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\pe\edu\upeu\algoritmosgui\Launcher.class
+[lun ago. 31 11:07:42 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\classes\pe\edu\upeu\algoritmosgui\MatrizTriangular.class to C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\pe\edu\upeu\algoritmosgui\MatrizTriangular.class
+[lun ago. 31 11:07:42 PET 2026][FINE] PB Command for jar: C:\Program Files\Java\jdk-21.0.7_windows-x64_bin\jdk-21.0.7\bin\jar.exe cf C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\classes.jar -C C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606 .
+[lun ago. 31 11:07:42 PET 2026][FINE] Start process jar...
+[lun ago. 31 11:07:43 PET 2026][FINE] Result for jar: 0
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning for resource bundles
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar::META-INF/substrate/config/resourcebundles
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/resourcebundles
+[lun ago. 31 11:07:43 PET 2026][FINE] Adding classes from C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar::META-INF/substrate/config/resourcebundles-x86_64-windows
+[lun ago. 31 11:07:43 PET 2026][FINE] Scanning C:\Users\ASUSTU~1\AppData\Local\Temp\classes5187544368111081606\classes.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Copied resource C:\Users\ASUS TUF F15\.m2\repository\org\controlsfx\controlsfx\11.2.1\controlsfx-11.2.1.jar to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\deps\controlsfx-11.2.1.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Copied resource C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.base.jar to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\deps\javafx.base.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Copied resource C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.controls.jar to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\deps\javafx.controls.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Copied resource C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.fxml.jar to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\deps\javafx.fxml.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Copied resource C:\Users\ASUS TUF F15\.gluon\substrate\javafxStaticSdk\21-ea+11.3\windows-x86_64\sdk\lib\javafx.graphics.jar to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\deps\javafx.graphics.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Class-Path manifest entry for pathing jar: ..\..\..\..\classes deps\controlsfx-11.2.1.jar deps\javafx.base.jar deps\javafx.controls.jar deps\javafx.fxml.jar deps\javafx.graphics.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] Pathing jar created at C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\classpathJar.jar
+[lun ago. 31 11:07:43 PET 2026][FINE] PB Command for compile: C:\descarga_importante\graalvm-jdk-21.0.10+8.1\bin\native-image.cmd "-Djdk.internal.lambda.eagerlyInitialize=false" --no-server -H:+SharedLibrary -H:+AddAllCharsets -H:+ReportExceptionStackTraces -H:-DeadlockWatchdogExitOnTimeout "-H:DeadlockWatchdogInterval=0" -H:+RemoveSaturatedTypeFlows -H:+ExitAfterRelocatableImageWrite "-H:TempDirectory=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp" "-H:EnableURLProtocols=http,https" -H:+PrintAnalysisCallTree "-H:Log=registerResource:" "-H:ReflectionConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\reflectionconfig-x86_64-windows.json" "-H:JNIConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\jniconfig-x86_64-windows.json" "-H:ResourceConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\resourceconfig-x86_64-windows.json" "-H:IncludeResourceBundles=com/sun/javafx/scene/control/skin/resources/controls,com/sun/javafx/scene/control/skin/resources/controls-nt,com.sun.javafx.tk.quantum.QuantumMessagesBundle,com/sun/glass/ui/win/themes" "-Dsvm.platform=org.graalvm.nativeimage.Platform$WINDOWS_AMD64" -cp "C:\Users\ASUS TUF F15\.m2\repository\com\gluonhq\substrate\0.0.69\substrate-0.0.69.jar;C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\classpathJar.jar" pe.edu.upeu.algoritmosgui.Launcher
+[lun ago. 31 11:07:43 PET 2026][FINE] Start process compile...
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: Ignoring server-mode native-image argument --no-server.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:JNIConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\jniconfig-x86_64-windows.json' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:-DeadlockWatchdogExitOnTimeout' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:IncludeResourceBundles=com/sun/javafx/scene/control/skin/resources/controls,com/sun/javafx/scene/control/skin/resources/controls-nt,com.sun.javafx.tk.quantum.QuantumMessagesBundle,com/sun/glass/ui/win/themes' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:DeadlockWatchdogInterval=0' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:ResourceConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\resourceconfig-x86_64-windows.json' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:+RemoveSaturatedTypeFlows' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:+PrintAnalysisCallTree' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:Log=registerResource:' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:+ExitAfterRelocatableImageWrite' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:EnableURLProtocols=http,https' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:+SharedLibrary' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:TempDirectory=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: The option '-H:ReflectionConfigurationFiles=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\reflectionconfig-x86_64-windows.json' is experimental and must be enabled via '-H:+UnlockExperimentalVMOptions' in the future.
+[lun ago. 31 11:07:43 PET 2026][INFO] [SUB] Warning: Please re-evaluate whether any experimental option is required, and either remove or unlock it. The build output lists all active experimental options, including where they come from and possible alternatives. If you think an experimental option should be considered as stable, please file an issue.
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] ========================================================================================================================
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] GraalVM Native Image: Generating 'pe.edu.upeu.algoritmosgui.launcher' (shared library)...
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] ========================================================================================================================
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] For detailed information and explanations on the build output, visit:
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] https://github.com/oracle/graal/blob/master/docs/reference-manual/native-image/BuildOutput.md
+[lun ago. 31 11:07:46 PET 2026][INFO] [SUB] ------------------------------------------------------------------------------------------------------------------------
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB] [1/8] Initializing...                                                                                    (6.4s @ 0.17GB)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  Java version: 21.0.10+8-LTS, vendor version: Oracle GraalVM 21.0.10+8.1
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  Graal compiler: optimization level: 2, target machine: x86-64-v3, PGO: ML-inferred
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  C compiler: cl.exe (microsoft, x64, 19.51.36256)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  Garbage collector: Serial GC (max heap size: 80% of RAM)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  1 user-specific feature(s):
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - com.oracle.svm.thirdparty.gson.GsonFeature
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB] ------------------------------------------------------------------------------------------------------------------------
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  10 experimental option(s) unlocked:
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:DeadlockWatchdogInterval' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:EnableURLProtocols' (alternative API option(s): --enable-http, --enable-https; origin(s): command line, command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:-DeadlockWatchdogExitOnTimeout' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:+ExitAfterRelocatableImageWrite' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:ReflectionConfigurationFiles' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:ResourceConfigurationFiles' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:JNIConfigurationFiles' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:IncludeResourceBundles' (origin(s): command line, command line, command line, command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:+SharedLibrary' (alternative API option(s): --shared; origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - '-H:TempDirectory' (origin(s): command line)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB] ------------------------------------------------------------------------------------------------------------------------
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB] Build resources:
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - 9.88GB of memory (41.6% of 23.73GB system memory, determined at start)
+[lun ago. 31 11:07:50 PET 2026][INFO] [SUB]  - 12 thread(s) (100.0% of 12 available processor(s), determined at start)
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB] [2/8] Performing analysis...  [******]                                                                  (62.6s @ 1.11GB)
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]    11,834 reachable types   (88.6% of   13,353 total)
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]    19,655 reachable fields  (63.5% of   30,929 total)
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]    62,315 reachable methods (63.7% of   97,878 total)
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]     3,389 types,   207 fields, and 2,778 methods registered for reflection
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]       130 types,   132 fields, and   209 methods registered for JNI access
+[lun ago. 31 11:08:53 PET 2026][INFO] [SUB]         4 native libraries: crypt32, ncrypt, version, winhttp
+[lun ago. 31 11:08:56 PET 2026][INFO] [SUB] # Printing call tree to: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\reports\call_tree_pe.edu.upeu.algoritmosgui.launcher_20260831_110856.txt
+[lun ago. 31 11:09:03 PET 2026][INFO] [SUB] # Printing list of used methods to: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\reports\used_methods_pe.edu.upeu.algoritmosgui.launcher_20260831_110903.txt
+[lun ago. 31 11:09:04 PET 2026][INFO] [SUB] # Printing list of used classes to: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\reports\used_classes_pe.edu.upeu.algoritmosgui.launcher_20260831_110904.txt
+[lun ago. 31 11:09:04 PET 2026][INFO] [SUB] # Printing list of used packages to: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\reports\used_packages_pe.edu.upeu.algoritmosgui.launcher_20260831_110904.txt
+[lun ago. 31 11:09:13 PET 2026][INFO] [SUB] [3/8] Building universe...                                                                               (9.4s @ 1.09GB)
+[lun ago. 31 11:09:29 PET 2026][INFO] [SUB] [4/8] Parsing methods...      [****]                                                                    (15.1s @ 1.86GB)
+[lun ago. 31 11:09:32 PET 2026][INFO] [SUB] [5/8] Inlining methods...     [****]                                                                     (3.2s @ 1.98GB)
+[lun ago. 31 11:11:07 PET 2026][INFO] [SUB] [6/8] Compiling methods...    [*********]                                                               (94.7s @ 1.28GB)
+[lun ago. 31 11:11:13 PET 2026][INFO] [SUB] [7/8] Laying out methods...   [***]                                                                      (6.4s @ 1.50GB)
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] 
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] ------------------------------------------------------------------------------------------------------------------------
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB]                        16.5s (7.7% of total time) in 558 GCs | Peak RSS: 3.30GB | CPU load: 8.66
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] ------------------------------------------------------------------------------------------------------------------------
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] Produced artifacts:
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB]  C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\graal_isolate.h (c_header)
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB]  C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\graal_isolate_dynamic.h (c_header)
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB]  C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\pe.edu.upeu.algoritmosgui.launcher.h (c_header)
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB]  C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\AlgoritmosGUI\pe.edu.upeu.algoritmosgui.launcher_dynamic.h (c_header)
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] ========================================================================================================================
+[lun ago. 31 11:11:19 PET 2026][INFO] [SUB] Finished generating 'pe.edu.upeu.algoritmosgui.launcher' in 3m 34s.
+[lun ago. 31 11:11:20 PET 2026][FINE] Result for compile: 0
+[lun ago. 31 11:11:20 PET 2026][FINE] Logging process [compile] to file: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\log\process-compile-1788192680549.log
+[lun ago. 31 11:11:20 PET 2026][FINE] PB Command for check version: C:\descarga_importante\graalvm-jdk-21.0.10+8.1\bin\java -version
+[lun ago. 31 11:11:20 PET 2026][FINE] Start process check version...
+[lun ago. 31 11:11:20 PET 2026][FINE] [SUB] java version "21.0.10" 2026-01-20 LTS
+[lun ago. 31 11:11:20 PET 2026][FINE] [SUB] Java(TM) SE Runtime Environment Oracle GraalVM 21.0.10+8.1 (build 21.0.10+8-LTS-jvmci-23.1-b84)
+[lun ago. 31 11:11:20 PET 2026][FINE] [SUB] Java HotSpot(TM) 64-Bit Server VM Oracle GraalVM 21.0.10+8.1 (build 21.0.10+8-LTS-jvmci-23.1-b84, mixed mode, sharing)
+[lun ago. 31 11:11:20 PET 2026][FINE] Result for check version: 0
+[lun ago. 31 11:11:20 PET 2026][INFO] Substrate is tested with the Gluon's GraalVM build which you can find at https://github.com/gluonhq/graal/releases.
+While you can still use other GraalVM builds, there is no guarantee that these will work properly with Substrate
+[lun ago. 31 11:11:42 PET 2026][INFO] ==================== RUN TASK ====================
+[lun ago. 31 11:11:42 PET 2026][FINE] PB Command for run until end: C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\AlgoritmosGUI.exe
+[lun ago. 31 11:11:42 PET 2026][FINE] Start process run until end...
+[lun ago. 31 11:11:42 PET 2026][INFO] [SUB] Main
+[lun ago. 31 11:11:42 PET 2026][INFO] [SUB] ago. 31, 2026 11:11:42 A. M. com.sun.javafx.application.PlatformImpl startup
+[lun ago. 31 11:11:42 PET 2026][INFO] [SUB] WARNING: Unsupported JavaFX configuration: classes were loaded from 'unnamed module @64524dd'
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoSuchMethodError: com.sun.glass.ui.win.WinAccessible.GetPatternProvider(I)J
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.jni.functions.JNIFunctions$Support.getMethodID(JNIFunctions.java:1848)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.jni.functions.JNIFunctions$Support.getMethodID(JNIFunctions.java:1833)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.jni.functions.JNIFunctions.GetMethodID(JNIFunctions.java:443)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinAccessible._initIDs(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinAccessible.<clinit>(WinAccessible.java:72)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoClassDefFoundError: Could not initialize class com.sun.glass.ui.win.WinAccessible
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoClassDefFoundError: Could not initialize class com.sun.glass.ui.win.WinAccessible
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoClassDefFoundError: Could not initialize class com.sun.glass.ui.win.WinAccessible
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoClassDefFoundError: Could not initialize class com.sun.glass.ui.win.WinAccessible
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] Exception in thread "JavaFX Application Thread" java.lang.NoClassDefFoundError: Could not initialize class com.sun.glass.ui.win.WinAccessible
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.createAccessible(WinApplication.java:298)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene.getAccessible(Scene.java:6493)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at javafx.scene.Scene$ScenePeerListener.getSceneAccessible(Scene.java:2988)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.javafx.tk.quantum.GlassViewEventHandler.getSceneAccessible(GlassViewEventHandler.java:1390)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.View.getAccessible(View.java:1112)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.runWith(Thread.java:1596)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at java.base@21.0.10/java.lang.Thread.run(Thread.java:1583)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:896)
+[lun ago. 31 11:11:45 PET 2026][INFO] [SUB] 	at org.graalvm.nativeimage.builder/com.oracle.svm.core.thread.PlatformThreads.threadStartRoutine(PlatformThreads.java:872)
+[lun ago. 31 11:11:52 PET 2026][FINE] Result for run until end: 0
+[lun ago. 31 11:12:35 PET 2026][INFO] ==================== PACKAGE TASK ====================
+[lun ago. 31 11:12:35 PET 2026][INFO] Building msi for C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\AlgoritmosGUI.exe
+[lun ago. 31 11:12:35 PET 2026][FINE] Copied resource C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gensrc\windows\assets\icon.ico to C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\tmpMSI\config\icon.ico
+[lun ago. 31 11:12:35 PET 2026][FINE] Looking for resource: /native/windows/wix/main.wxs
+[lun ago. 31 11:12:35 PET 2026][FINE] PB Command for Wix Compiler: C:\Program Files (x86)\WiX Toolset v3.14\bin\candle.exe -nologo C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\tmpMSI\config\main.wxs -ext WixUtilExtension -arch x64 -out C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\tmpMSI\config\main.wxs.wixobj -dGSAppVersion=1.0.0 -dGSProductUpgradeCode=397d7c5e-01a1-3047-b90c-6d0f62a4abca -dGSStartMenuShortcutGUID=6e9f8496-7ea3-3148-9ee9-89febe871f6d -dGSAppVendor=Mi Empresa S.A. -dGSAppIcon=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\tmpMSI\config\icon.ico -dGSAppDescription=Mi aplicación nativa -dGSAppIconName=AlgoritmosGUI.ico -dGSProductCode=a6e04597-be25-3180-bc72-b713579515c7 -dGSApplicationPath=C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\AlgoritmosGUI.exe -dGSDesktopShortcutGUID=1ffc5f74-ee62-3259-a4e3-bcb04021a7ce -dGSAppName=AlgoritmosGUI -dGSMainExecutableGUID=751a5403-2d0d-3abf-82c8-7ba4d63720c3
+[lun ago. 31 11:12:35 PET 2026][FINE] Start process Wix Compiler...
+[lun ago. 31 11:12:36 PET 2026][FINE] [SUB] main.wxs
+[lun ago. 31 11:12:36 PET 2026][FINE] Result for Wix Compiler: 0
+[lun ago. 31 11:12:36 PET 2026][FINE] PB Command for Wix Linker: C:\Program Files (x86)\WiX Toolset v3.14\bin\light.exe -nologo -spdb -sw1076 -ext WixUtilExtension -ext WixUIExtension -out C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\AlgoritmosGUI-1.0.0.msi C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\gvm\tmp\tmpMSI\config\main.wxs.wixobj
+[lun ago. 31 11:12:36 PET 2026][FINE] Start process Wix Linker...
+[lun ago. 31 11:12:56 PET 2026][FINE] Result for Wix Linker: 0
+[lun ago. 31 11:12:56 PET 2026][INFO] MSI created successfully at C:\Prototipo005\Prototipo005\AlgoritmosGUI\target\gluonfx\x86_64-windows\AlgoritmosGUI-1.0.0.msi
